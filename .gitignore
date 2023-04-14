@@ -1,0 +1,4 @@
+node_modules
+Server/models/cred_mysql
+.env
+cred_mysql
